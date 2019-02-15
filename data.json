@@ -1,0 +1,45 @@
+{
+  "basic":{
+    "image":"sanju.jpeg",
+    "name":"sushmanth",
+    "email":"sanjukummari7@gmail.com",
+    "number":"9959401063",
+    "address":"goa"
+  },
+  "career":{
+    "info":"to secure a challenging position"
+  },
+  "education":[
+    {
+      "institute":"PRAGATI COLLEGE",
+      "degree":"b.tech",
+      "passout":"2021"
+
+    },
+    {
+      "institute":"andhra POLYTECHNIC",
+      "degree":"DIPLOMA",
+      "passout":"2018"
+    },
+    {
+      "institute":"bhashyam public school",
+      "degree":"SSC",
+      "passout":"2014"
+    }
+  ],
+  "Technicalskills":[
+    {
+      "title":"PROGRAMMING LANGUAGES",
+      "content":["python,java,c++"]
+    },
+    {
+      "title":"OPERATING SYSTEM",
+      "content":["ios,android,windows"]
+    },
+    {
+      "title":"DATABASE",
+       "content":["mysql,oracle"]
+
+    }
+  ]
+  }
